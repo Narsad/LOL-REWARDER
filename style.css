@@ -6,13 +6,15 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+body{
+    padding-top: 10%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
 .content{
     display: flex;
     flex-direction: column;
     margin: auto;
-    padding-top: 10%;
-    padding-left: 31%;
-    padding-right: 31%;
     max-height: 100vh;
 }
 
