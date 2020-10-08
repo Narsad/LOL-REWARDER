@@ -1,0 +1,5 @@
+TITLE: LOL REWARDER
+DESCRIPTION: LOL Rewarder is an application that allows League of Legends players to acquire their desired skins by completing hard challenges.
+Application have all kinds of challenges for all types of players. Each month there are limited skins to acquire, so the fastests and best players
+would be available to get free skins.
+BUTTON TEXT: DOWNLOAD .APK (for Android)
